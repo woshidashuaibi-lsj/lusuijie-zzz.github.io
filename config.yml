@@ -2,13 +2,13 @@ copyright: "2025 GuangzhengLi All rights reserved"
 Author:
   name: "Guangzheng Li"
   email: "iguangzhengli@gmail.com"
-baseURL: 'https://guangzhengli.com/'
+baseURL: 'https://woshidashuaibi-lsj.github.io'
 title: GuangzhengLi
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://guangzhengli.com/'
+homepage: 'https://woshidashuaibi-lsj.github.io'
 defaultContentLanguage: 'zh'
 googleAnalytics: G-7E4JNTL3ES
 enableRobotsTXT: true
